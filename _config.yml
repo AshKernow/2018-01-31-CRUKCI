@@ -2,7 +2,7 @@
 # Values for this workshop - EDIT THIS SECTION.
 #--------------------------------------------------------------------------------
 workshop_repo   : "https://github.com/AshKernow/2018-01-31-CRUKCI"
-workshop_site   : "https://github.com/AshKernow"
+workshop_site   : "https://AshKernow.github.io/2018-01-31-CRUKCI"
 #--------------------------------------------------------------------------------
 # Standard Data Carpentry settings - should not need to be modified.
 #--------------------------------------------------------------------------------
